@@ -10,7 +10,7 @@ I specialize in **JavaScript (Node.js, React, TypeScript)**, and **MySQL**, with
 ### 💼 Current Role
 **Software Developer** at [Faircent.com (Faiassets Technologies India Pvt Ltd)](https://www.faircent.com)  
 📍 *Gurugram, Haryana, India*  
-📧 *your.email@example.com*  
+📧 *piyush.mca19.du@gmail.com*  
 
 ---
 
